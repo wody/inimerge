@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='inisync',
-      version='1.0',
+      version='1.1',
       description='Sync value from one INI file to others',
       author='Constantin Gruber',
       author_email='constantin.gruber@sixsentix.com',
