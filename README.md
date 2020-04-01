@@ -8,6 +8,15 @@ Small Python3 script to update a value from a given source ini file to one or ma
 pip3 install inisync
 ```
 
+# Skrip without pip module installation
+If you do not want to use the the module, you can download the script from the release page and use it this way:
+
+Download link: [Latest release](https://github.com/wody/inisync/releases/latest/download/inisync.py)
+
+```
+python3 inisync.py
+```
+
 # Usage
 
 Sync values from a source INI file to one or more target INI files.
